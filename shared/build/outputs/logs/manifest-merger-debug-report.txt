@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml:2:13-83
+INJECTED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml:2:13-83
+INJECTED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml:2:13-83
+	package
+		INJECTED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml
+		ADDED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml:2:13-83
+		INJECTED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml
+	xmlns:android
+		ADDED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml:2:23-81
+uses-sdk
+INJECTED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml reason: use-sdk injection requested
+INJECTED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml
+INJECTED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml
+INJECTED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml
+INJECTED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml
+	android:targetSdkVersion
+		INJECTED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml
+		ADDED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml
+		INJECTED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml
+	android:minSdkVersion
+		INJECTED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml
+		ADDED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml
+		INJECTED from /Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml

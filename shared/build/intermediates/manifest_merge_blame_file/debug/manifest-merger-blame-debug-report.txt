@@ -1,0 +1,11 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.azharkova.otus_kmm" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml
+7        android:targetSdkVersion="32" />
+7-->/Users/annazharkova/di_kmm_sets_podlodka/koin/test_kmm_di/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12255457885944429898.xml
+8
+9</manifest>
